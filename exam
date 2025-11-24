@@ -3,3 +3,6 @@ wget https://Downloads.sourceforge.net/project/pentbox 18realised/pentbox -1.8.t
 tar xvfz pentbox-1.8.tar.gz
 cd pentbox-1.8
 ./pentbox.rb
+
+nesus
+https://www.tenable.com/downloads/nessus?loginAttempted=true
