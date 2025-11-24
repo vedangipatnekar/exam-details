@@ -1,0 +1,5 @@
+wget https://Downloads.sourceforge.net/project/pentbox 18 realised/pentbox -1.8.tar.gz
+wget https://Downloads.sourceforge.net/project/pentbox 18realised/pentbox -1.8.tar.gz
+tar xvfz pentbox-1.8.tar.gz
+cd pentbox-1.8
+./pentbox.rb
